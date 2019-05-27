@@ -1,0 +1,14 @@
+{
+  "name": "MATGOSERVER",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "jade": "*",
+    "redis" : "*",
+    "redis-lock" : "0.0.5"
+  }
+}
