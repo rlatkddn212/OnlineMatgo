@@ -1,6 +1,8 @@
 # OnlineMatgo
 this project is Online Matgo game.
 
+   
+리소스가 없고 소스 파일만 있습니다. 참고바랍니다 :)
 
 ##### 개발 도구
 클라이언트 : unity  
