@@ -11,4 +11,4 @@ this project is Online Matgo game.
 서버 : MATGOSERVER/  
 
 ##### 게임 영상을 보려면?
-https://www.youtube.com/watch?v=S0JXCIlJf3Y&t=46s
+https://www.youtube.com/watch?v=zbqMfbKU3hc
